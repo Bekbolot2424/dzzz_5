@@ -22,6 +22,3 @@ class Button {
     }
 }
 
-new Button("Купить", "primary", "large").render();
-new Button("Отмена", "secondary", "medium").render();
-new Button("Удалить", "danger", "small").render();
